@@ -67,6 +67,5 @@ for i in ans:
 ##########################
 
 
-
 # close the connection
 connection.close()
